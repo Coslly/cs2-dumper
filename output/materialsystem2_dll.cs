@@ -1,5 +1,5 @@
 // Generated using https://github.com/a2x/cs2-dumper
-// 2025-03-08 01:09:39.389363600 UTC
+// 2025-03-12 09:43:59.960579700 UTC
 
 namespace CS2Dumper.Schemas {
     // Module: materialsystem2.dll
@@ -167,7 +167,7 @@ namespace CS2Dumper.Schemas {
             public const nint m_vectorAttributes = 0xD0; // CUtlVector<MaterialParamVector_t>
             public const nint m_textureAttributes = 0xE8; // CUtlVector<MaterialParamTexture_t>
             public const nint m_stringAttributes = 0x100; // CUtlVector<MaterialParamString_t>
-            public const nint m_renderAttributesUsed = 0x118; // CUtlVector<CUtlString>
+            public const nint m_renderAttributesUsed = 0x118; // 
         }
         // Parent: None
         // Field count: 10

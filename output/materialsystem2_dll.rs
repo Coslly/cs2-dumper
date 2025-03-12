@@ -1,5 +1,5 @@
 // Generated using https://github.com/a2x/cs2-dumper
-// 2025-03-08 01:09:39.389363600 UTC
+// 2025-03-12 09:43:59.960579700 UTC
 
 #![allow(non_upper_case_globals, non_camel_case_types, non_snake_case, unused)]
 
@@ -175,7 +175,7 @@ pub mod cs2_dumper {
                 pub const m_vectorAttributes: usize = 0xD0; // CUtlVector<MaterialParamVector_t>
                 pub const m_textureAttributes: usize = 0xE8; // CUtlVector<MaterialParamTexture_t>
                 pub const m_stringAttributes: usize = 0x100; // CUtlVector<MaterialParamString_t>
-                pub const m_renderAttributesUsed: usize = 0x118; // CUtlVector<CUtlString>
+                pub const m_renderAttributesUsed: usize = 0x118; // 
             }
             // Parent: None
             // Field count: 10

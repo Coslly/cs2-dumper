@@ -1,5 +1,5 @@
 // Generated using https://github.com/a2x/cs2-dumper
-// 2025-03-08 01:09:39.389363600 UTC
+// 2025-03-12 09:43:59.960579700 UTC
 
 #![allow(non_upper_case_globals, non_camel_case_types, non_snake_case, unused)]
 
@@ -161,8 +161,8 @@ pub mod cs2_dumper {
                 pub const m_infoOverlays: usize = 0x18; // CUtlVector<InfoOverlayData_t>
                 pub const m_visClusterMembership: usize = 0x30; // CUtlVector<uint16>
                 pub const m_aggregateSceneObjects: usize = 0x48; // CUtlVector<AggregateSceneObject_t>
-                pub const m_clutterSceneObjects: usize = 0x60; // CUtlVector<ClutterSceneObject_t>
-                pub const m_extraVertexStreamOverrides: usize = 0x78; // CUtlVector<ExtraVertexStreamOverride_t>
+                pub const m_clutterSceneObjects: usize = 0x60; // 
+                pub const m_extraVertexStreamOverrides: usize = 0x78; // 
                 pub const m_materialOverrides: usize = 0x90; // CUtlVector<MaterialOverride_t>
                 pub const m_extraVertexStreams: usize = 0xA8; // CUtlVector<WorldNodeOnDiskBufferData_t>
                 pub const m_layerNames: usize = 0xC0; // CUtlVector<CUtlString>

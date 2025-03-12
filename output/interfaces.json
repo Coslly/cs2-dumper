@@ -4,14 +4,14 @@
     "AnimationSystem_001": 6323504
   },
   "client.dll": {
-    "ClientToolsInfo_001": 25701648,
-    "EmptyWorldService001_Client": 25419824,
-    "GameClientExports001": 25688520,
-    "LegacyGameUI001": 25822576,
-    "Source2Client002": 27901536,
-    "Source2ClientConfig001": 27469328,
-    "Source2ClientPrediction001": 25734560,
-    "Source2ClientUI001": 25815360
+    "ClientToolsInfo_001": 25705760,
+    "EmptyWorldService001_Client": 25423920,
+    "GameClientExports001": 25692632,
+    "LegacyGameUI001": 25826688,
+    "Source2Client002": 27905680,
+    "Source2ClientConfig001": 27473488,
+    "Source2ClientPrediction001": 25738672,
+    "Source2ClientUI001": 25819472
   },
   "engine2.dll": {
     "BenchmarkService001": 5532976,
@@ -130,16 +130,16 @@
     "SchemaSystem_001": 399072
   },
   "server.dll": {
-    "EmptyWorldService001_Server": 20438288,
-    "EntitySubclassUtilsV001": 20112368,
-    "NavGameTest001": 21093720,
+    "EmptyWorldService001_Server": 20438304,
+    "EntitySubclassUtilsV001": 20112384,
+    "NavGameTest001": 21093736,
     "ServerToolsInfo_001": 20788904,
     "Source2GameClients001": 20764016,
     "Source2GameDirector001": 22025248,
     "Source2GameEntities001": 20788688,
     "Source2Server001": 20788288,
-    "Source2ServerConfig001": 22855032,
-    "customnavsystem001": 19999576
+    "Source2ServerConfig001": 22855048,
+    "customnavsystem001": 19999592
   },
   "soundsystem.dll": {
     "SoundOpSystem001": 3808336,
@@ -151,26 +151,26 @@
     "SteamAudio001": 2177520
   },
   "steamclient64.dll": {
-    "CLIENTENGINE_INTERFACE_VERSION005": 18446744071758116074,
-    "IVALIDATE001": 21639432,
-    "SteamClient006": 21629024,
-    "SteamClient007": 21629032,
-    "SteamClient008": 21629040,
-    "SteamClient009": 21629048,
-    "SteamClient010": 21629056,
-    "SteamClient011": 21629064,
-    "SteamClient012": 21629072,
-    "SteamClient013": 21629080,
-    "SteamClient014": 21629088,
-    "SteamClient015": 21629096,
-    "SteamClient016": 21629104,
-    "SteamClient017": 21629112,
-    "SteamClient018": 21629120,
-    "SteamClient019": 21629128,
-    "SteamClient020": 21629136,
-    "SteamClient021": 21629144,
-    "p2pvoice002": 21899071,
-    "p2pvoicesingleton002": 21487840
+    "CLIENTENGINE_INTERFACE_VERSION005": 18446744071758186586,
+    "IVALIDATE001": 22197368,
+    "SteamClient006": 22186960,
+    "SteamClient007": 22186968,
+    "SteamClient008": 22186976,
+    "SteamClient009": 22186984,
+    "SteamClient010": 22186992,
+    "SteamClient011": 22187000,
+    "SteamClient012": 22187008,
+    "SteamClient013": 22187016,
+    "SteamClient014": 22187024,
+    "SteamClient015": 22187032,
+    "SteamClient016": 22187040,
+    "SteamClient017": 22187048,
+    "SteamClient018": 22187056,
+    "SteamClient019": 22187064,
+    "SteamClient020": 22187072,
+    "SteamClient021": 22187080,
+    "p2pvoice002": 21899679,
+    "p2pvoicesingleton002": 22044896
   },
   "tier0.dll": {
     "TestScriptMgr001": 3668592,

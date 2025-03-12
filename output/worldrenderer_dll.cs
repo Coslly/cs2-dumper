@@ -1,5 +1,5 @@
 // Generated using https://github.com/a2x/cs2-dumper
-// 2025-03-08 01:09:39.389363600 UTC
+// 2025-03-12 09:43:59.960579700 UTC
 
 namespace CS2Dumper.Schemas {
     // Module: worldrenderer.dll
@@ -157,8 +157,8 @@ namespace CS2Dumper.Schemas {
             public const nint m_infoOverlays = 0x18; // CUtlVector<InfoOverlayData_t>
             public const nint m_visClusterMembership = 0x30; // CUtlVector<uint16>
             public const nint m_aggregateSceneObjects = 0x48; // CUtlVector<AggregateSceneObject_t>
-            public const nint m_clutterSceneObjects = 0x60; // CUtlVector<ClutterSceneObject_t>
-            public const nint m_extraVertexStreamOverrides = 0x78; // CUtlVector<ExtraVertexStreamOverride_t>
+            public const nint m_clutterSceneObjects = 0x60; // 
+            public const nint m_extraVertexStreamOverrides = 0x78; // 
             public const nint m_materialOverrides = 0x90; // CUtlVector<MaterialOverride_t>
             public const nint m_extraVertexStreams = 0xA8; // CUtlVector<WorldNodeOnDiskBufferData_t>
             public const nint m_layerNames = 0xC0; // CUtlVector<CUtlString>
