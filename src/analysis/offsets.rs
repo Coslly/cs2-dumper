@@ -94,7 +94,7 @@ pattern_map! {
                 map.insert("dwLocalPlayerPawn".to_string(), rva + save[1]);
             }
         }),
-        "dwSensitivity" => pattern!("488d0d${[8]'} 660f6ecd") => Some(|_view, map, _rva| {
+        "dwSensitivity" => pattern!("488d0d${[8]'} 0f57c90f28f0") => Some(|_view, map, _rva| {
             map.insert("dwSensitivity_sensitivity".to_string(), 0x58);
         }),
         "dwViewMatrix" => pattern!("488d0d${'} 48c1e006") => None,
@@ -122,7 +122,7 @@ pattern_map! {
     },
     soundsystem => {
         "dwSoundSystem" => pattern!("488d0d${'} e8${} 488b0d${} [3] 4c8b82") => None,
-        "dwSoundSystem_engineViewData" => pattern!("0f1147u1 0f104e? 0f118f") => None,
+        "dwSoundSystem_engineViewData" => pattern!("0f1147u1 0f104f10 0f114f7c") => None,
     },
 }
 
